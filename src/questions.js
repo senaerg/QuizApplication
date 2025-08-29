@@ -60,12 +60,13 @@ export default [
   },
   {
     id: 'q7',
-    text: 'Which approach can NOT be used to render content conditionally?',
+    text: ' A company has a large amount of structured data stored in their on-premises data center. They are planning to migrate all the data to AWS, what is the most appropriate AWS database option?',
     answers: [
-      'Using the #if template syntax.',
-      'Using a ternary operator.',
-      'Using the && operator.',
-      'Using an if-else statement.',
+    'Amazon RDS',
+'Amazon DynamoDB',
+'Amazon SNS',
+
+'Amazon ElastiCache',
     ],
   },
 ];
