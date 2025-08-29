@@ -1,2 +1,2 @@
 # QuizApplication
-quiz application designed in React rto practice Cloud Practitioner Exam
+quiz application designed in React to practice Cloud Practitioner Exam
